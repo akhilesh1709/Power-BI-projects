@@ -9,5 +9,5 @@ For this project, I used the following datasets:
 ## DATA VISUALIZATION
 
 ##### Student performance dashboard
-(https://github.com/akhilesh1709/Student-performance-using-Power-BI/blob/07282a75dfb8bda932db137223881a9e64734900/student_perform.png)
+![student_perform](https://github.com/akhilesh1709/Student-performance-using-Power-BI/assets/103525428/fa40d95d-ebfb-498d-9ad7-74f73ab3fb42)
 
