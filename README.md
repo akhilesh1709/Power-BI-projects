@@ -8,4 +8,6 @@ For this project, I used the following datasets:
 
 ## DATA VISUALIZATION
 
+##### Student performance dashboard
+(https://github.com/akhilesh1709/Student-performance-using-Power-BI/blob/07282a75dfb8bda932db137223881a9e64734900/student_perform.png)
 
